@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75df79de-2e3d-4db7-8843-b37c54622c14" name="Default" comment="" />
+    <list default="true" id="75df79de-2e3d-4db7-8843-b37c54622c14" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +56,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="25" />
     <option name="y" value="46" />
     <option name="width" value="1400" />
@@ -243,7 +245,7 @@
       <workItem from="1530449366994" duration="109000" />
       <workItem from="1530451473912" duration="482000" />
       <workItem from="1530455219955" duration="1889000" />
-      <workItem from="1530493524946" duration="177000" />
+      <workItem from="1530493524946" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="demo项目提交">
       <created>1530455907301</created>
@@ -256,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4098000" />
+    <option name="totallyTimeSpent" value="4383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,7 +270,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="46" width="1400" height="770" extended-state="1" />
+    <frame x="25" y="46" width="1400" height="770" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
